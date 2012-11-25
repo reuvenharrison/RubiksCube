@@ -1,6 +1,6 @@
 Background
 ==========
-I bought the 2D Rubik’s cube and needed a way to experiment with it.
+I bought the 2x2 Rubik's cube and needed a way to experiment with it.
 Actually, I wanted to find interesting sequences through brute force.
 So I wrote this simple simulator in Go.
 
